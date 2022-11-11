@@ -1,0 +1,39 @@
+.desks {
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+}
+.desk-cards {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+
+}
+.card-button {
+    margin-left: 15px;
+    background: #97a3a4;
+    border: 1px solid #97a3a4;
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+    border-radius: 8px;
+
+    font-size: 16px;
+    color: #FFFFFF;
+}
+.unit-desk-card {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 18px;
+
+    width: 305px;
+    height: 60px;
+
+    background: #FFFFFF;
+    border: 1px solid #F2F4F7;
+    border-radius: 8px;
+    box-shadow: 0px 12px 16px -4px rgba(16, 24, 40, 0.08), 0px 4px 6px -2px rgba(16, 24, 40, 0.03);
+    margin-right: 30px;
+    margin-bottom: 30px;
+
+}
