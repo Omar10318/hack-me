@@ -1,10 +1,10 @@
 # Hack Me
 
-## Delivery
+## Delivery Notes
 
-Let's fork the project on your Github.
+This is the forked version of the Semana test: https://github.com/semana-io/hack-me
 
-At the end, push all changes on your repository and send the link.
+It respects the specification described below
 
 ## How to run and test
 
